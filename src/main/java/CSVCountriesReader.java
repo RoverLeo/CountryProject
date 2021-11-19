@@ -1,3 +1,4 @@
+import data.CountryData;
 import lombok.SneakyThrows;
 
 import java.io.BufferedReader;

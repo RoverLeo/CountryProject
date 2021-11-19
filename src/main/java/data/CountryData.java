@@ -1,3 +1,5 @@
+package data;
+
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -6,10 +8,9 @@ import javax.persistence.*;
 
 import static javax.persistence.GenerationType.*;
 
+@Entity
 @Getter
 @Setter
-@Entity
-@Table(name = "CountryData")
 @NoArgsConstructor
 public class CountryData {
 

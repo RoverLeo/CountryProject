@@ -1,4 +1,4 @@
-package src;
+import data.CountryData;
 
 import java.math.BigDecimal;
 import java.util.List;

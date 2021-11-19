@@ -1,5 +1,3 @@
-package src;
-
 import lombok.SneakyThrows;
 
 import java.io.File;
