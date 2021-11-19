@@ -1,3 +1,5 @@
+package src;
+
 public class NotAllDataLineException extends RuntimeException {
 
 	public NotAllDataLineException(String[] params) {
